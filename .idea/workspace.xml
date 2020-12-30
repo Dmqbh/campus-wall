@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="532a647b-eebc-4ad7-8b5d-cde21d1c9eba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/back-end/src/bean/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/bean/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +79,10 @@
       <updated>1608780571237</updated>
       <workItem from="1608780573229" duration="52000" />
       <workItem from="1608780655502" duration="1808000" />
+      <workItem from="1608878500536" duration="1446000" />
+      <workItem from="1609115122889" duration="4153000" />
+      <workItem from="1609310415678" duration="1212000" />
+      <workItem from="1609326506426" duration="918000" />
     </task>
     <servers />
   </component>
@@ -98,6 +102,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="829" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1609327213880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="829" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1609327213880" />
     <state x="357" y="105" key="FileChooserDialogImpl" timestamp="1608781761256">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
