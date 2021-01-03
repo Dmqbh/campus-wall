@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="532a647b-eebc-4ad7-8b5d-cde21d1c9eba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/back-end/src/web/UserRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/src/web/UserExistence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/src/web/UserLogout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/src/web/UserRegisterAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/src/web/UserRegisterEmail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +89,7 @@
       <workItem from="1609115122889" duration="4153000" />
       <workItem from="1609310415678" duration="1212000" />
       <workItem from="1609326506426" duration="918000" />
-      <workItem from="1609674670426" duration="2013000" />
+      <workItem from="1609674670426" duration="2499000" />
     </task>
     <servers />
   </component>
