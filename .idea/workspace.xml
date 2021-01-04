@@ -20,8 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="532a647b-eebc-4ad7-8b5d-cde21d1c9eba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/back-end/src/web/post/PostAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back-end/src/web/post/PostBlog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/src/web/post/PostCollect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/src/web/post/PostCollectAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/src/web/post/PostCollectDel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/src/web/post/PostCommend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/src/web/post/PostDel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/src/web/post/PostGetById.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +92,7 @@
       <workItem from="1609115122889" duration="4153000" />
       <workItem from="1609310415678" duration="1212000" />
       <workItem from="1609326506426" duration="918000" />
-      <workItem from="1609674670426" duration="2840000" />
+      <workItem from="1609674670426" duration="3495000" />
     </task>
     <servers />
   </component>
