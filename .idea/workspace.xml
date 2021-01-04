@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="532a647b-eebc-4ad7-8b5d-cde21d1c9eba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/back-end/src/bean/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/bean/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end/src/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/bean/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/dao/PostDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/dao/PostDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/utils/DbUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/utils/DBHelper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +92,8 @@
       <workItem from="1609720982556" duration="371000" />
       <workItem from="1609721460627" duration="1510000" />
       <workItem from="1609723766861" duration="863000" />
+      <workItem from="1609758235148" duration="1562000" />
+      <workItem from="1609759853005" duration="2073000" />
     </task>
     <servers />
   </component>
@@ -113,10 +117,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="829" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1609675266844" />
-    <state x="357" y="105" key="FileChooserDialogImpl" timestamp="1608781761256">
+    <state x="357" y="105" key="FileChooserDialogImpl" timestamp="1609759366248">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="357" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608781761256" />
+    <state x="357" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609759366248" />
     <state x="767" y="84" key="RollbackChangesDialog" timestamp="1609724576913">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -125,6 +129,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608781779168" />
+    <state x="149" y="0" width="636" height="707" key="dock-window-1" timestamp="1609760355831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="149" y="0" width="636" height="707" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1609760355831" />
     <state x="633" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1609677465260">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
