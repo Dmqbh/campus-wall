@@ -5,7 +5,7 @@ import java.io.InputStream;
 import java.sql.*;
 import java.util.Properties;
 
-public class DBHelper {
+public class DbUtils {
 
 
     public static String driver;
@@ -18,7 +18,7 @@ public class DBHelper {
     public ResultSet resultSet;
 
     static {
-        InputStream inputStream = DBHelper.class.getResourceAsStream("/jdbc.properties");
+        InputStream inputStream = DbUtils.class.getResourceAsStream("/jdbc.properties");
         Properties properties = new Properties();
         try {
             properties.load(inputStream);
