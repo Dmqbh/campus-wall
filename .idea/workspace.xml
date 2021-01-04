@@ -20,10 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="532a647b-eebc-4ad7-8b5d-cde21d1c9eba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/back-end/src/web/comment/CommentAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/src/web/comment/CommentDelGetBy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/src/web/comment/CommentGetByPostId.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end/src/dao/PostDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/dao/PostDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end/src/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/dao/UserDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end/src/utils/DBHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/utils/DbUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +90,8 @@
       <workItem from="1609326506426" duration="918000" />
       <workItem from="1609674670426" duration="3880000" />
       <workItem from="1609720982556" duration="371000" />
-      <workItem from="1609721460627" duration="28000" />
+      <workItem from="1609721460627" duration="1510000" />
+      <workItem from="1609723766861" duration="558000" />
     </task>
     <servers />
   </component>
