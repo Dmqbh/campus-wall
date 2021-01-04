@@ -13,6 +13,19 @@ public class User {
      * 注册时间
      * 出生日期
      */
+    /**
+     * create table tser(
+     * userid int primary key,--账号
+     * tser_password varchar(15),  --密码
+     * tser_avatar varchar(255)not null,--头像
+     * tser_mailbox varchar(20),--邮箱
+     * tser_name varchar(7),--昵称
+     * tser_sex char(2) check(Tser_sex='男' or Tser_sex='女')not null,--性别
+     * tser_registration datetime, --注册时间
+     * tser_birthday varchar(15) not null  --出生日期
+     *
+     * )
+     */
     int userid;
     String password;
     String avatar;

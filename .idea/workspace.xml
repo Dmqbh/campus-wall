@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="532a647b-eebc-4ad7-8b5d-cde21d1c9eba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/back-end/src/web/comment/CommentAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back-end/src/web/comment/CommentDelGetBy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back-end/src/web/comment/CommentGetByPostId.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/bean/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/bean/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/bean/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +89,7 @@
       <workItem from="1609674670426" duration="3880000" />
       <workItem from="1609720982556" duration="371000" />
       <workItem from="1609721460627" duration="1510000" />
-      <workItem from="1609723766861" duration="558000" />
+      <workItem from="1609723766861" duration="863000" />
     </task>
     <servers />
   </component>
@@ -119,6 +117,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="357" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608781761256" />
+    <state x="767" y="84" key="RollbackChangesDialog" timestamp="1609724576913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="767" y="84" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1609724576913" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1608781779168">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
