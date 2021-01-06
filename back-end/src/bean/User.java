@@ -20,7 +20,7 @@ public class User {
     String password;
     String avatar;
     String mailbox;
-    String naem;
+    String name;
     String sex;
     Date registration;
     Date birthday;
@@ -29,21 +29,22 @@ public class User {
     }
 
     /**
-     * @param userid 账号
-     * @param password 密码
-     * @param avatar 头像
-     * @param mailbox 邮箱
-     * @param naem 昵称
-     * @param sex 性别(男、女)
+     * @param userid       账号
+     * @param password     密码
+     * @param avatar       头像
+     * @param mailbox      邮箱
+     * @param name         昵称
+     * @param sex          性别(男、女)
      * @param registration 注册时间
-     * @param birthday 出生日期
+     * @param birthday     出生日期
+     *                     注释时间：20点36分 2021\1
      */
-    public User(int userid, String password, String avatar, String mailbox, String naem, String sex, Date registration, Date birthday) {
+    public User(int userid, String password, String avatar, String mailbox, String name, String sex, Date registration, Date birthday) {
         this.userid = userid;
         this.password = password;
         this.avatar = avatar;
         this.mailbox = mailbox;
-        this.naem = naem;
+        this.name = name;
         this.sex = sex;
         this.registration = registration;
         this.birthday = birthday;
@@ -81,12 +82,12 @@ public class User {
         this.mailbox = mailbox;
     }
 
-    public String getNaem() {
-        return naem;
+    public String getName() {
+        return name;
     }
 
-    public void setNaem(String naem) {
-        this.naem = naem;
+    public void setName(String name) {
+        this.name = name;
     }
 
     public String getSex() {
