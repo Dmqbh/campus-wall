@@ -23,7 +23,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/back-end/src/dao/PostDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/dao/PostDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/back-end/src/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/dao/UserDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end/src/utils/DbUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/utils/DBHelper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +92,10 @@
       <workItem from="1609721460627" duration="1510000" />
       <workItem from="1609723766861" duration="863000" />
       <workItem from="1609758235148" duration="1562000" />
-      <workItem from="1609759853005" duration="2073000" />
+      <workItem from="1609759853005" duration="2674000" />
+      <workItem from="1609806897593" duration="8000" />
+      <workItem from="1609849271944" duration="400000" />
+      <workItem from="1609901094539" duration="1934000" />
     </task>
     <servers />
   </component>

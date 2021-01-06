@@ -14,7 +14,7 @@ public class UserDAO {
     /**
      * 注册用户
      * @param user
-     * @return
+     * @return 账号返回给他
      * @throws SQLException
      */
     public User addUser(User user) throws SQLException {
@@ -27,13 +27,33 @@ public class UserDAO {
         try{
             QueryRunner runner = new QueryRunner();
             BigDecimal res = runner.insert(conn,sql,new ScalarHandler<BigDecimal>(),objects);
+            user.setUserid((int) res.longValue());
             return user;
         }finally {
             DbUtils.closeQuietly(conn);
         }
     }
 
-    public int upUser(){
-        return 1;
+    /**
+     * 更改密码
+     * @param password 新密码
+     * @param userid 账号
+     * @return 成功或者失败
+     * @throws SQLException
+     */
+    public int upUserPassword(String password,int userid) throws SQLException {
+        DBHelper dbHelper = new DBHelper();
+        Connection connection = dbHelper.getConnection();
+        String sql = "update tser set password = ? where userid = ?";
+        Object [] param ={
+                password,userid
+        };
+        try{
+            QueryRunner runner = new QueryRunner();
+            return runner.update(connection,sql,param);
+        }finally {
+            DbUtils.closeQuietly(connection);
+        }
+
     }
 }
