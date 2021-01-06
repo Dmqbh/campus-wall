@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="532a647b-eebc-4ad7-8b5d-cde21d1c9eba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/back-end/src/bean/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/bean/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/apache-tomcat-8.5.56/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -79,6 +79,8 @@
       <updated>1608780571237</updated>
       <workItem from="1608780573229" duration="52000" />
       <workItem from="1608780655502" duration="1808000" />
+      <workItem from="1609931449441" duration="1520000" />
+      <workItem from="1609933347482" duration="1519000" />
     </task>
     <servers />
   </component>
@@ -98,6 +100,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="447" y="0" key="#Auto_Import" timestamp="1609933916798">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="447" y="0" key="#Auto_Import/0.0.1366.728@0.0.1366.728" timestamp="1609933916798" />
+    <state x="889" y="95" key="#com.intellij.ide.util.MemberChooser" timestamp="1609934796259">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="889" y="95" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1609934796259" />
     <state x="357" y="105" key="FileChooserDialogImpl" timestamp="1608781761256">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
