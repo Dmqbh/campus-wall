@@ -20,9 +20,9 @@ public class UserDAO {
     public User addUser(User user) throws SQLException {
         DBHelper dbHelper = new DBHelper();
         Connection connection = dbHelper.getConnection();
-        String sql = "insert into tser (userid, ) values ()";
+        String sql = "insert into tser (userid, tser_password, tser_mailbox) values (?, ?, ?)";
         Object[] params = {
-                user.getUserid(), user.getPassword(), user.getAvatar(), user.getMailbox(), user.getName(), user.getSex(), user.getRegistration()
+                user.getUserid(), user.getPassword(),  user.getMailbox()
         };
         try{
             QueryRunner queryRunner = new QueryRunner();

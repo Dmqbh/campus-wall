@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="532a647b-eebc-4ad7-8b5d-cde21d1c9eba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/back-end/src/dao/UserDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/dao/UserDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,10 @@
       <workItem from="1609933347482" duration="2155000" />
       <workItem from="1609936347312" duration="531000" />
       <workItem from="1609983047849" duration="8835000" />
-      <workItem from="1610017952714" duration="1680000" />
+      <workItem from="1610017952714" duration="1909000" />
+      <workItem from="1610279066610" duration="13000" />
+      <workItem from="1610325651862" duration="296000" />
+      <workItem from="1610693017799" duration="558000" />
     </task>
     <servers />
   </component>
