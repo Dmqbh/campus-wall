@@ -1,4 +1,4 @@
-package web;
+package web.Userweb;
 
 import com.google.gson.Gson;
 import dao.UserDAO;
@@ -13,7 +13,8 @@ import java.sql.SQLException;
 public class UserVerifyServer extends HttpServlet {
     /**
      * 注册时验证用户名是否有重复
-     * @param req 要个前端的【name】
+     *
+     * @param req  要个前端的【name】
      * @param resp 返回个json，给前端判断。
      * @throws ServletException
      * @throws IOException

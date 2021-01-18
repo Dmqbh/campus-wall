@@ -16,6 +16,7 @@ public class User {
      * 注释创建时间：19点47分 2021\1
      */
 
+
     int userid;
     String password;
     String avatar;
@@ -49,6 +50,10 @@ public class User {
         this.registration = registration;
         this.birthday = birthday;
     }
+
+    public User(int id, String password, String email) {
+    }
+
 
     public int getUserid() {
         return userid;
