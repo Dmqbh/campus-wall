@@ -43,7 +43,7 @@ public class UserDAO {
      * @return 成功或者失败（有或无）
      * 注释创建时间：14点43分 2021\1\7
      */
-    public int loginUser(String userid, String password) throws SQLException {
+    public int loginUser(int userid, String password) throws SQLException {
         DBHelper dbHelper = new DBHelper();
         Connection connection = dbHelper.getConnection();
         String sql = "select userid,tser_password form where userid = ? and tser_password = ?";

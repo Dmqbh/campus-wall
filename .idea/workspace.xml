@@ -20,13 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="532a647b-eebc-4ad7-8b5d-cde21d1c9eba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/back-end/src/web/Userweb/UserLoginServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back-end/src/web/Userweb/UserRegisteredServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back-end/src/web/Userweb/UserVerifyServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/back-end/src/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/bean/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/back-end/src/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/web/Userweb/UserLoginServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/web/Userweb/UserLoginServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +65,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -233,7 +231,12 @@
       <workItem from="1610325651862" duration="296000" />
       <workItem from="1610693017799" duration="558000" />
       <workItem from="1610886572865" duration="599000" />
-      <workItem from="1610930029710" duration="4773000" />
+      <workItem from="1610930029710" duration="7176000" />
+      <workItem from="1610967736942" duration="1111000" />
+      <workItem from="1610969044749" duration="1264000" />
+      <workItem from="1611016385595" duration="748000" />
+      <workItem from="1611024458396" duration="1242000" />
+      <workItem from="1611038630617" duration="1136000" />
     </task>
     <servers />
   </component>
@@ -265,18 +268,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1610930481571" />
-    <state x="889" y="95" key="#com.intellij.ide.util.MemberChooser" timestamp="1609934796259">
+    <state x="889" y="95" key="#com.intellij.ide.util.MemberChooser" timestamp="1610969409015">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="889" y="95" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1609934796259" />
+    <state x="889" y="95" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1610969409015" />
+    <state x="413" y="110" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1610969262708">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1610969262708" />
     <state x="357" y="105" key="FileChooserDialogImpl" timestamp="1610930503517">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="357" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610930503517" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1610930556251">
+    <state x="163" y="0" key="SettingsEditor" timestamp="1610968853128">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610930556251" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610968853128" />
     <state x="103" y="0" width="636" height="707" key="dock-window-1" timestamp="1609989720358">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
