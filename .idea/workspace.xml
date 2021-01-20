@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="532a647b-eebc-4ad7-8b5d-cde21d1c9eba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/back-end/src/bean/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/src/dao/ArticleDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end/src/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/bean/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end/src/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/dao/UserDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end/src/web/Userweb/UserLoginServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/web/Userweb/UserLoginServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,6 +236,7 @@
       <workItem from="1611016385595" duration="748000" />
       <workItem from="1611024458396" duration="1242000" />
       <workItem from="1611038630617" duration="1136000" />
+      <workItem from="1611054256958" duration="4902000" />
     </task>
     <servers />
   </component>
@@ -268,10 +268,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1610930481571" />
-    <state x="889" y="95" key="#com.intellij.ide.util.MemberChooser" timestamp="1610969409015">
+    <state x="889" y="95" key="#com.intellij.ide.util.MemberChooser" timestamp="1611054706350">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="889" y="95" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1610969409015" />
+    <state x="889" y="95" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1611054706350" />
     <state x="413" y="110" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1610969262708">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -284,13 +284,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610968853128" />
-    <state x="103" y="0" width="636" height="707" key="dock-window-1" timestamp="1609989720358">
+    <state x="0" y="0" width="637" height="538" maximized="true" key="dock-window-1" timestamp="1611055319227">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="103" y="0" width="636" height="707" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1609989720358" />
-    <state x="-36" y="89" width="636" height="707" key="dock-window-2" timestamp="1609990031756">
+    <state x="0" y="0" width="637" height="538" maximized="true" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1611055319227" />
+    <state x="0" y="0" width="637" height="536" key="dock-window-2" timestamp="1611058681732">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="-36" y="89" width="636" height="707" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1609990031756" />
+    <state x="0" y="0" width="637" height="536" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1611058681732" />
   </component>
 </project>
